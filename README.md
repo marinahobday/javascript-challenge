@@ -6,4 +6,4 @@ That's why we are hiring you. We need you to write code that will create a table
 You can handle this... right? The planet Earth needs to know what we have found!"
 
 
-This project uses an html to showcase a table representing the data through JavaScript that will listen for events and search through the date/time column to find rows that match user input.
+This project uses html to showcase a table representing the data through JavaScript that will listen for events and search through the date/time column to find rows that match user input.
